@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Grigorii Sukhorukov
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: doing PhD in Machine Learning for plant metagenomics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Bordeaux Bioinformatics Center (CBIB)
+  url: "https://www.cbib.u-bordeaux.fr/"
+- name: University of Bordeaux
+  url: "https://www.u-bordeaux.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include phylogenetics, metagenomics and detection of viruses
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Phylogenetics
+- Metagenomics
 
 education:
   courses:
